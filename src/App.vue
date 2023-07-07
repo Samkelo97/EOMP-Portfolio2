@@ -1,7 +1,7 @@
 <template>
-  <navbarComp/>
+ <navbarComp/>
   <router-view/>
-  <footerComp/>
+ <footerComp/>
 </template>
 
 
@@ -15,5 +15,8 @@ export default{
 
 </script>
 <style>
+#app{
+  background-color: black;
+}
 
 </style>

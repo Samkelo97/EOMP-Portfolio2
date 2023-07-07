@@ -1,0 +1,178 @@
+{
+  "projects": [
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 1,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 2,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 3,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 4,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 5,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 6,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    }
+  ],
+  "testimonials": [
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 1,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 2,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 3,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 4,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 5,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "rating": "5",
+      "id": 6,
+      "image_url": "https://picsum.photos/600?random=1",
+      "price": 1000
+    }
+  ],
+  "Experiences": [
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 1
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 2
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 3
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 4
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 5
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 6
+    }
+  ],
+  "Education": [
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 1
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 2
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 3
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 4
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 5
+    },
+    {
+      "title": "Web application",
+      "desc": "JavaScript basics",
+      "date": "5",
+      "id": 6
+    }
+  ]
+}

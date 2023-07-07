@@ -1,0 +1,154 @@
+{
+    "projects": [
+        {
+            "title": "Timeless taste",
+            "desc": "this was my first attempt for e-commerce website that sells watches and i called it timeless taste it part of an exxercise that we did in one of our introductions to javascript",
+            "rating": "5",
+            "id": 1,
+            "netlify":"https://tubular-parfait-dd1647.netlify.app",
+            "github":"https://github.com/Samkelo97/e-commerce-website",
+            "image_url": "https://i.postimg.cc/kXb57j72/Timeless-taste.png",
+            "price": 1000
+        },
+        {
+            "title": "Calculator",
+            "desc": "This is a simple calculator that i did just to see if i could do and it has minimal styling",
+            "rating": "5",
+            "id": 2,
+            "netlify":"https://grand-salmiakki-d89886.netlify.app",
+            "github":"https://github.com/Samkelo97/calculator",
+            "image_url": "https://i.postimg.cc/9FSzHrKY/calculator.png",
+            "price": 1000
+        },
+        {
+            "title": "Sam-k apparel ecommerce",
+            "desc": "Sam-k apparel is my EOMP for javascript that i did ,that is an e-commerce website that sells apparel for men",
+            "rating": "5",
+            "id": 3,
+            "netlify":"https://funny-elf-243412.netlify.app",
+            "github":"https://github.com/Samkelo97/EOMP-1",
+            "image_url": "https://i.postimg.cc/MTKzQSgG/Sam-k-apparel.png",
+            "price": 1000
+        },
+        {
+            "title": "To-do-List",
+            "desc": "This is one of the class exercise that we did and it is a to do list and it has minimal styling my main focus was to make it function even though it is not fully functional ",
+            "rating": "5",
+            "id": 4,
+            "netlify":"https://candid-monstera-d7a712.netlify.app",
+            "github":"https://github.com/Samkelo97/To-Do-List",
+            "image_url": "https://i.postimg.cc/yYSs9np0/To-do-list.png",
+            "price": 1000
+        },
+        {
+            "title": "Temperature Converter",
+            "desc": "this was also one of the exercises that we did in class it had to convert celsius to fahrenheit but i also added kelvin as one of the convertions",
+            "rating": "5",
+            "id": 5,
+            "netlify":"https://grand-ganache-856c0b.netlify.app",
+            "github":"https://github.com/Samkelo97/temperature-converter",
+            "image_url": "https://i.postimg.cc/V6pMGDqX/Screenshot-2023-07-07-133541.png",
+            "price": 1000
+        },
+        {
+            "title": "BMI converter",
+            "desc": "This is a body mass converter that i did as a class exercise that was not focused on styling",
+            "rating": "5",
+            "id": 6,
+            "netlify":"https://fantastic-lebkuchen-03d7a3.netlify.app",
+            "github":"https://github.com/Samkelo97/BMI-calculator",
+            "image_url": "https://i.postimg.cc/K8MWJHtD/BMI-converter.png",
+            "price": 1000
+        }
+    ],
+    "testimonials": [
+        {
+            "title": "Inam Nkabi",
+            "desc": "colleague",
+            "rating": "5",
+            "id": 1,
+            "image_url": "https://i.postimg.cc/m2yC5cXK/C12-C1-Inam-Nkabi-3.jpg",
+            "des":"Very responsible and passionate about coding, he is always willing to help someone who needs advice from him, he always wants to submit finished products and always gives it his all onhis exercises and team projects." 
+        },
+        {
+            "title": "Ethan Oliver",
+            "desc": "colleague",
+            "rating": "5",
+            "id": 2,
+            "image_url": "https://i.postimg.cc/x1VpKbk7/Ethan-1.jpg",
+            "des": "I am thrilled to share my positive testimonial about my experience with Samkelo. From the moment I first met him I was impressed. His dedication to excellence and drive to achieve was evident in every interaction I had with him. Samkelo's positiv attitude, humour and passion for his work is inspiring, and he has a unique ability to inspire and motivate others to achieve their best. He is always willing to go the extra mile to ensure that the project is completed."
+        },
+        {
+            "title": "Sidwell Batyi",
+            "desc": "colleague",
+            "rating": "5",
+            "id": 3,
+            "image_url": "https://i.postimg.cc/wMJZp5yX/image.png",
+            "des": "He is passionate about his work and always makes sure he submits his work to the best of his abilities,and he does not mind helping others if he know the solution,he likes to joke about if you teach others you engrave the information to your mind it is always a pleasure to have him around ."
+        },
+        {
+            "title": "Lisa Mbuwa",
+            "desc": "colleague",
+            "rating": "5",
+            "id": 4,
+            "image_url": "https://i.postimg.cc/52977W3q/Lisa.jpg",
+            "des": "Samkelo is a hardworking individual with the ablity to multitask. He is the most humble and kind person. He is the sweetest person to be around. He is very calm and patient. He isa open-spoken person and is very respectful. He is passionate about his work and does the best in his ablity . He never hesitates to help people out when they don't understand , as he hares his knowledge with us"
+        },
+        {
+            "title": "Sakhe Mzolisa",
+            "desc": "Mentor",
+            "rating": "5",
+            "id": 5,
+            "image_url": "https://i.postimg.cc/JhkbKp95/Sakhe.jpg",
+            "des":"As a web development student, I have been thoroughly impressedwith Samkelo's skills and dedication to the craft. His ability to quickly learn and apply new technologies is admirable.Samkelo's attention to detail ensures that every project is executed with precision and meets the highest standards. Samkelo is a reliable team player who always goes above and beyond to ensure project success. I highly recommend Samkelo for any ICT company.."
+        },
+        {
+            "title": "Okuhle Gxotiwe",
+            "desc": "colleague",
+            "rating": "5",
+            "id": 6,
+            "image_url": "https://i.postimg.cc/WzkJmVx0/C12-Okuhle-Gwotiwe-1.jpg",
+            "des": "He is bright and enthusiastic individual who has been steadily improving his skills."
+        }
+    ],
+    "Experiences": [
+        {
+            "title": "Emperial Logistics",
+            "desc": "General Worker",
+            "date": "Jan 2017-december 2017",
+            "id": 4
+        },
+        {
+            "title": "Windsor electronics",
+            "desc": "Sales Assistant",
+            "date": "March 2018-august 2018",
+            "id": 5
+        },
+        {
+            "title": "Hendred Freuhof",
+            "desc": "Diesiel intern",
+            "date": "September 2018-April 2020",
+            "id": 6
+        }
+    ],
+    "Education": [
+        {
+            "title": "Hout Bay High",
+            "desc": "Matric",
+            "date": "2015",
+            "id": 1
+        },
+        {
+            "title": "Northlink College",
+            "desc": "N3 Diesel mechanics",
+            "date": "2021",
+            "id": 2
+        },
+        {
+            "title": "Life Choices academy",
+            "desc": "Web Development",
+            "date": "April 2023-present",
+            "id": 3
+        }
+    ]
+}
